@@ -1,0 +1,19 @@
+﻿  Cekic.cpp
+  Igra.cpp
+C:\Users\Korisnik\Desktop\lavirint projekat oop2\Lavirint\Lavirint\Igra.cpp(229,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lavirint.cpp
+C:\Users\Korisnik\Desktop\lavirint projekat oop2\Lavirint\Lavirint\Lavirint.cpp(13,31): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+  Mac.cpp
+  MaglaRata.cpp
+  main.cpp
+C:\Users\Korisnik\Desktop\lavirint projekat oop2\Lavirint\Lavirint\main.cpp(40,29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  ObradaDatoteka.cpp
+  Predmet.cpp
+  Stit.cpp
+  Generating Code...
+C:\Users\Korisnik\Desktop\lavirint projekat oop2\Lavirint\Lavirint\Lavirint.cpp(181,1): warning C4715: 'Lavirint::xRobota': not all control paths return a value
+C:\Users\Korisnik\Desktop\lavirint projekat oop2\Lavirint\Lavirint\Lavirint.cpp(163,1): warning C4715: 'Lavirint::xMinotaura': not all control paths return a value
+C:\Users\Korisnik\Desktop\lavirint projekat oop2\Lavirint\Lavirint\Lavirint.cpp(190,1): warning C4715: 'Lavirint::yRobota': not all control paths return a value
+C:\Users\Korisnik\Desktop\lavirint projekat oop2\Lavirint\Lavirint\Lavirint.cpp(172,1): warning C4715: 'Lavirint::yMinotaura': not all control paths return a value
+  Lavirint.vcxproj -> C:\Users\Korisnik\Desktop\lavirint projekat oop2\Lavirint\x64\Debug\Lavirint.exe
